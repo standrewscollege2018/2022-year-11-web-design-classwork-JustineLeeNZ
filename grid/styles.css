@@ -1,0 +1,20 @@
+body {
+  color: red;
+}
+
+.nav_bar {
+  background-color: green;
+}
+
+.container {
+  display: grid;
+  grid-template-columns:1fr 1fr;
+}
+
+.left-content {
+  background-color: blue;
+}
+
+.right-content {
+  text-align: right;
+}
