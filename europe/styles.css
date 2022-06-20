@@ -48,3 +48,26 @@ a:hover {
   text-decoration: underline;
   color: rgb(158, 248, 255);
 }
+
+/* layout styles */
+.header {
+  margin: 20px;
+  text-align: center;
+}
+
+/* styles for homepage */
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.intro {
+  padding:20px;
+}
+
+
+.main-content {
+  padding: 20px;
+
+
+}
